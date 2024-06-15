@@ -1,0 +1,41 @@
+DESIGNING THE PROGRAM:
+
+The CARD class was used for OPTION 3 (Generate Card(s)). The PLAYER class was used in
+both OPTION 4 (Create Virtual Players) and OPTION 5 (BINGO CALLER). The CALLER class 
+was used in OPTION 5 (BINGO CALLER).
+
+At first, I used the data members and member functions from Assignment 2 (Documentation).
+However, although they made sense, using them together did not work. Thus, I made major 
+changes to the data members and member functions of the classes. 
+
+
+
+IMPLEMENTING THE PROGRAM:
+
+Implementing the program was like a walk in the park. I had no problems writing the code 
+for the compulsory options. However, things changed when I designed OPTION 6 (THE BINGO 
+GAME). I immediately wrote the member functions without any planning and in the middle of
+designing it, I realized a problem. Thus, I have to do it from scratch and plan first.
+After planning it, I was able to implement the BINGO game successfully. 
+
+
+
+IMPROVEMENTS THAT I WOULD DO:
+
+From this experience, I learned that planning is the most crucial step in designing a
+program. With strong planning, the execution will be fast and more or less perfect.
+
+If I were to work on this project again, I would spend most of my time planning until
+everything is working according to theory and hypothesis. I would also try to make 
+functions for processes that are going to be reused a lot of times (Such as checking 
+for repeating numbers) 
+
+
+
+EXTRA FUNCTIONALITIES THAT I DID:
+
+- Having at least 1 extra class in the game.
+- Display the word Bingo using ASCII art when a player wins.
+- Allow the Bingo Caller data to be saved and restored at the user's request.
+- Allow the player to select which elements to use (X / O).
+- Display the final called numbers with their prefix letter (B, I, N, G, O).

@@ -1,0 +1,45 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Trimester: 3
+Unit     : MCD4720
+My Name  : Tommy Tjoa
+My ID    : 34726926
+Date     : 20 December 2023
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+       How to play Bingo-75 (Bingo Rules)
+
+GENERAL INFORMATION:
+
+- A maximum of 2 players can play the Bingo-75 game.
+
+- You will be greeted with a display menu consisting of
+7 options. Each option will perform a specific task. 
+
+- If the option entered is not between 1 and 7, you will
+be asked to enter another option until it is valid.
+
+- A BINGO grid consists of 5 rows and 5 columns, with a
+"Free" box in the middle.
+
+- Each column represents a letter from the word "BINGO"
+and has randomly generated numbers, depends on the numerical
+range of that column. (Column 'B' is from 1 to 15, column 
+'I' is from 16 to 30, etc)
+
+PLAYING THE FULL GAME:   
+
+- To play the full BINGO Game, enter option 6. Firstly, you 
+will be asked to enter the number of players. Then, for a 
+brief period, a random generated BINGO grid will be displayed 
+(Depends on the number of players).
+
+- Next, the BINGO caller will call a random number within
+the range of the prefix with a prefix (B, I, N, G, or O) 
+beside it.
+
+- If the number called is in a player's grid, an X (If there 
+is a second player, marked with an O) will be marked on the 
+player's grid. 
+
+- First to achieve a HORIZONTAL, VERTICAL, or DIAGONAL line wins. 
+   

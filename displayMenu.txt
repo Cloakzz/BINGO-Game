@@ -1,0 +1,13 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Programming Fundamental Concepts
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[1] Ending the Program
+[2] Display "Game Rules" Information
+[3] Generate Card(s)
+[4] Create Virtual Players
+[5] Bingo Caller (Call for numbers)
+[6] Bingo Game (1 or 2 Players)
+[7] Display the Reflection Report
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
